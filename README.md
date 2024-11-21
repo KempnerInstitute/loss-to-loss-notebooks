@@ -1,6 +1,6 @@
 # loss-to-loss-notebooks
 
-This repo contains the data and notebooks needed to generate the figures for the paper (TODO).
+This repo contains the data and notebooks needed to generate the figures for the paper [Loss-to-loss prediction: scaling laws for all datasets](https://arxiv.org/abs/2411.12925).
 
 ## Dependencies
 
@@ -36,5 +36,10 @@ We provide 5 notebooks to generate the figures in the paper.
 Please cite the following paper:
 
 ```bibtex
-TODO
+@article{brandfonbrener2024loss,
+      title={Loss-to-Loss Prediction: Scaling Laws for All Datasets}, 
+      author={Brandfonbrener, David and Anand, Nikhil and Vyas, Nikhil and Malach, Eran and Kakade, Sham},
+      journal={arXiv preprint arXiv:2411.12925},
+      year={2024}
+}
 ```
